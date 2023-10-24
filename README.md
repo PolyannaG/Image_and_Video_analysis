@@ -8,7 +8,7 @@ We were asked to implement an image pyramid and compute the entropy and SNR of t
 We were asked to implement Harris and Shi-Tomasi corner detectors and then use Lucas-Kanade algorithm in order to compute the optical flow.
 
 * 3rd project:\
-We experimented with a classification problem using several CNN models (LeNet, AlexNet and VGG) ant tuning its parameters. We also experimented using early stoping, dropout, data augmentation etc
+We experimented with a classification problem using several CNN models (LeNet, AlexNet and VGG) and performing hyperparameter tuning. We also experimented using early stoping, dropout, data augmentation etc
 
 Our Team :
 
